@@ -1,2 +1,2 @@
-# Bachelor-s---Thesis
-Metaverse Analysis 
+# Bachelor's Thesis
+
