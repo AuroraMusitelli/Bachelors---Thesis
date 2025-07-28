@@ -4,4 +4,4 @@ This thesis explores public perception and understanding of the Metaverse by ana
 
 [Metaverse Analysis (Italian version)](https://github.com/AuroraMusitelli/Bachelors---Thesis/blob/main/tesi_MetaverseAnalysis.pdf)
 
-📎 Tags: Sentiment Analysis | Social Media Analytics | Topic Modelling
+📎 Tags: Sentiment Analysis | Social Media Analytics | Topic Modeling
